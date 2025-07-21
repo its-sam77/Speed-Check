@@ -125,3 +125,8 @@ body {
     height: auto;
   }
 }
+
+.back-to-top {
+    text-decoration: none;
+    color: white;
+}
